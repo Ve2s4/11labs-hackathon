@@ -2,7 +2,6 @@ import json
 import logging
 from typing import Annotated
 
-import aiohttp
 from dotenv import load_dotenv
 from livekit.agents import (
     AutoSubscribe,
@@ -12,7 +11,7 @@ from livekit.agents import (
     cli,
     llm,
 )
-from livekit.agents.pipeline import AgentCallContext, VoicePipelineAgent
+from livekit.agents.pipeline import VoicePipelineAgent
 from livekit.plugins import deepgram, openai, silero, elevenlabs
 
 load_dotenv()

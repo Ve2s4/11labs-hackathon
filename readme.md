@@ -1,3 +1,5 @@
+# DEPRECATED (Not maintained any more)
+
 # Gibble AI: Voice-Activated Product Navigator
 
 Ever wished your customers could navigate your product effortlessly—whether it's a complex video editor or an intricate pricing matrix—without overwhelming your support team? Gibble AI is the ultimate voice-activated guide for your product, providing instant conversational answers to users' questions like:
